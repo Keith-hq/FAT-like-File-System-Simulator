@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行时生成的磁盘映像
+*.img
+*.img.bak
+*.img.tmp
+
+# PyInstaller 构建产物
+build/
+dist/
+*.manifest
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 工作区私有数据
+.workbuddy-ai/
